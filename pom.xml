@@ -68,7 +68,7 @@
         <version>1.4.3</version>
         <configuration>
           <mutators>
-            <mutator>DEFAULTS</mutator>
+            <mutator>ALL</mutator>
           </mutators>
         </configuration>
       </plugin>

@@ -76,4 +76,9 @@ public class App extends Exception
 	public void setHeight(double height){
 		this.height = height;
 	}
+
+	public void setBmi(double bmi){
+		this.bmi = bmi;
+	}
+
 }
